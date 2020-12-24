@@ -1,3 +1,5 @@
 This is the initial contents.
 
 Add new content to branch: newBranch
+
+contents for the secondBranch
